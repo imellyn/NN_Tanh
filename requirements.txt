@@ -1,13 +1,8 @@
-streamlit 
-pandas 
-numpy 
+streamlit
+numpy
+pandas
 matplotlib
-torch
-sklearn
-seaborn
-plotly
 scikit-learn
+torch
 torchvision
 torchaudio
-nltk
-PdfReader
